@@ -2,7 +2,6 @@ import { faTimes } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useState } from "react";
 import styled from "styled-components";
-import { Container } from "../../components/Container";
 import { titleStyle } from "../../style/GlobalStyle";
 
 const SMainBanner = styled.section`
