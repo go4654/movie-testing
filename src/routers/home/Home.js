@@ -44,7 +44,6 @@ export const Home = () => {
     movieData();
   }, []);
 
-  console.log(nowPlay);
   // console.log(pop);
 
   return (
